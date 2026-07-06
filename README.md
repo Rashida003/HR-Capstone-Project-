@@ -106,9 +106,10 @@ The following Pivot Tables were created to answer the business questions and sup
 - Performance Score by Employment Status
 - Bonus Payout by Performance Band
 ![Attrition Rate](images/pivot1.png)
+![Performance per Status](images/pivot2.png)
 ![Headcount and Salary per department](images/pivot3.png)
 ![Bonus Payout](images/pivot4.png)
-![Performance per Status](images/pivot2.png)
+
 ---
 # Cleaned Dataset
 The cleaned dataset contains standardized data, corrected data types, handled missing values, removed duplicates, and all calculated columns created during the transformation stage.
