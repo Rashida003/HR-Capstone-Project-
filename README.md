@@ -119,7 +119,7 @@ The cleaned dataset contains standardized data, corrected data types, handled mi
 The exploratory data analysis revealed the following insights:
 - **Information Technology** has the highest number of employees.
 - **Human Resources** has the highest average salary.
-- **Information Technology** recorded the highest employee attrition rate.
+- **Information Technology and Operations** recorded the highest employee attrition rate.
 - Employees in the **Exceeding** performance band received the highest total bonus payout.
 These findings can help management understand workforce distribution, identify departments experiencing higher employee turnover, and evaluate employee compensation and reward strategies.
 ---
